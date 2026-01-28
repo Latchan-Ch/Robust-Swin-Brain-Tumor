@@ -46,6 +46,20 @@ Our model ignores background noise (skull, eyes) and focuses strictly on the tum
 
 ---
 
+## Citations: 
+If you use this code, please cite our paper:
+
+@inproceedings{chhetri2026robust,
+  title={Robustness of Attention-Enhanced Swin Transformers Against Data Leakage in Brain Tumor Classification},
+  author={Chhetri, Latchan and Ghosal, Palash},
+  booktitle={IEEE Conference Name (GCON)},
+  year={2026}
+}
+
+## Contacts:
+
+For questions, please contact Latchan Chhetri.
+
 ## Installation
 
 ```bash
