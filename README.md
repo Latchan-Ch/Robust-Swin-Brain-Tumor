@@ -17,6 +17,10 @@ We propose a **Patient-Level Split** benchmark and a novel **Attention-Enhanced 
 
 ---
 
+## Dataset Link : [Brain Tumor Dataset on Figshare](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427)
+
+---
+
 ## Key Features
 - **Strict Patient-Level Split:** Zero overlap of patients between Train/Test sets.
 - **Attention Mechanism:** Integrated CBAM (Channel + Spatial Attention) into Swin-Tiny.
