@@ -12,7 +12,7 @@ State-of-the-art brain tumor classification models often suffer from **Data Leak
 We propose a **Patient-Level Split** benchmark and a novel **Attention-Enhanced Swin Transformer** that integrates **CBAM** to strictly learn pathological features, achieving **96.82% accuracy** on the rigorous "Hard Mode" split.
 
 <p align="center">
-  <img src="assets/final_flowchart(final_boss).pdf" width="800">
+  <img src="assets/final_flowchart.png" width="800">
 </p>
 
 ---
