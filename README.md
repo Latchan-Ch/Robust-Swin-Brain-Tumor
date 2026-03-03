@@ -69,4 +69,3 @@ For questions, please contact Latchan Chhetri.
 ```bash
 git clone [https://github.com/Latchan-Ch/Robust-Swin-Brain-Tumor.git](https://github.com/Latchan-Ch/Robust-Swin-Brain-Tumor.git)
 cd Robust-Swin-Brain-Tumor
-pip install -r requirements.txt
